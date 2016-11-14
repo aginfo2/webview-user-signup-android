@@ -42,7 +42,7 @@ public class ImageJS extends Observable {
             @Override
             public void run() {
 
-                if( !Util.isPreLollipop() ){
+                if( !Util.isPreKitKat() ){
                     Bitmap bitmap = generateBitmap();
 
                     ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();

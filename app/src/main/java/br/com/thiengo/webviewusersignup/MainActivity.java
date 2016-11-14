@@ -81,7 +81,7 @@ public class MainActivity extends AppCompatActivity implements Observer {
 
     private void loadWebViewDataSupport( String srcBase64 ){
 
-        if( Util.isPreLollipop() ){
+        if( Util.isPreKitKat() ){
             String postData = null;
             try {
                 postData = "image="+ URLEncoder.encode(srcBase64, "UTF-8");
