@@ -45,8 +45,6 @@ public class MainActivity extends AppCompatActivity implements Observer {
 
         webView = (WebView) findViewById(R.id.wb_content);
         webView.getSettings().setJavaScriptEnabled( true );
-        //settings.setAllowFileAccess(true);
-        //settings.setAllowContentAccess(true);
 
         webView.setHorizontalScrollBarEnabled(true);
         webView.addJavascriptInterface( this, "Android" );
