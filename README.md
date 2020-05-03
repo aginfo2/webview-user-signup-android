@@ -2,11 +2,11 @@
 
 Projeto Java Android da segunda parte do artigo [Input File no WebView Android](https://www.thiengo.com.br/input-file-no-webview-android#title-6) do Blog [Thiengo.com.br](https://www.thiengo.com.br).
 
-Artigo que discute em detalhes uma técnica que permite o envio de dados binários (imagens, vídeos, áudios, documentos, ...) para o backend Web de um aplicativo construído com uso de `WebView`.
+Artigo que discute em detalhes uma técnica que permite o envio de dados binários (imagens, vídeos, áudios, documentos, ...) para o backend Web de um aplicativo Android construído com uso de `WebView`.
 
 Envio de dados binários por formulário em `WebView` que é, já a alguns anos, um sério problema neste componente visual.
 
-<img src="https://www.thiengo.com.br/img/post/normal/3g6fu5eq6v5qnta9dfmce1ln76387e2e1c264fbdd08b916cdb0b63e23f.jpg" width="220 alt="Tela de cadastro do app Android de exemplo">
+<img src="https://www.thiengo.com.br/img/post/normal/3g6fu5eq6v5qnta9dfmce1ln76387e2e1c264fbdd08b916cdb0b63e23f.jpg" width="220" alt="Tela de cadastro do app Android de exemplo">
 
 O conteúdo do artigo também está disponível em [vídeo](https://www.thiengo.com.br/input-file-no-webview-android#title-17).
 
@@ -20,7 +20,7 @@ Essa parte Web você pode estar acessando [neste trecho do artigo](https://www.t
 
 ### Primeira parte
 
-Caso você queira ter acesso à primeira parte do artigo, então [entre por aqui](https://www.thiengo.com.br/input-file-no-webview-android#title-1). Está primeira parte apresenta principalmente o problema que há entre `WebView` e "Formulários Web".
+Caso você queira ter acesso à primeira parte do artigo, então [entre por aqui](https://www.thiengo.com.br/input-file-no-webview-android#title-1). Está primeira parte apresenta principalmente o problema que há entre `WebView` e "Formulários Web (HTML)".
 
 ### AndroidX
 
@@ -32,7 +32,7 @@ De qualquer forma, mesmo sem a atualização para o AndroidX o projeto deverá r
 
 ## Dúvidas e dicas
 
-Caso você tenha dúvidas ou dicas sobre a estratégia em `WebView`s ou sobre os projetos apresentados em artigo, então [entre em contato](https://www.thiengo.com.br/contato) ou deixe seu comentário no post que logo eu lhe respondo.
+Caso você tenha dúvidas ou dicas sobre a estratégia de formulários em `WebView`s ou sobre os projetos apresentados em artigo, então [entre em contato](https://www.thiengo.com.br/contato) ou deixe seu comentário no post que logo eu lhe respondo.
 
 ## Meus livros 📚 e curso
 
